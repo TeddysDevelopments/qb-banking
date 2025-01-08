@@ -3,6 +3,7 @@ I’ve reworked the QB-Banking script so you don’t need bank cards anymore—y
 
 ## Dependencies
   > Ox_Target
+> 
   > Ox_Lib
 
 
